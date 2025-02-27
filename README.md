@@ -53,4 +53,4 @@ The project includes SQL queries that answer the following business questions:
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/mistrychintan/Bike-Rental-Shop---SQL-Case-Study.git
+   https://github.com/mistrychintan/Bike-Rental-Shop---SQL-Case-Study.git
